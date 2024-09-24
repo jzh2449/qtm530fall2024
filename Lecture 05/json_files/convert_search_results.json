@@ -1,7 +1,7 @@
 {
     "meta": {
         "count": 62,
-        "db_response_time_ms": 34,
+        "db_response_time_ms": 103,
         "page": 1,
         "per_page": 25,
         "groups_count": null
@@ -2080,8 +2080,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.46,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -2847,8 +2847,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.81,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -3943,6 +3943,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 2,
             "institutions_distinct_count": 3,
             "corresponding_author_ids": [
@@ -3970,7 +3971,7 @@
             "fwci": 16.2,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 249,
+            "cited_by_count": 251,
             "citation_normalized_percentile": {
                 "value": 0.954957,
                 "is_in_top_1_percent": false,
@@ -6098,7 +6099,7 @@
                     "cited_by_count": 22
                 }
             ],
-            "updated_date": "2024-09-05T22:29:23.243656",
+            "updated_date": "2024-09-18T13:09:16.185631",
             "created_date": "2016-06-24"
         },
         {
@@ -6775,8 +6776,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.79,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -7893,8 +7894,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.75,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -14686,8 +14687,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.5,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -17515,6 +17516,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 1,
             "institutions_distinct_count": 1,
             "corresponding_author_ids": [
@@ -17532,7 +17534,7 @@
             "fwci": null,
             "has_fulltext": true,
             "fulltext_origin": "pdf",
-            "cited_by_count": 78,
+            "cited_by_count": 79,
             "citation_normalized_percentile": {
                 "value": 0.997845,
                 "is_in_top_1_percent": true,
@@ -17810,8 +17812,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.63,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -18379,7 +18381,7 @@
                     "cited_by_count": 1
                 }
             ],
-            "updated_date": "2024-09-05T06:11:38.460478",
+            "updated_date": "2024-09-18T04:12:56.029792",
             "created_date": "2019-10-18"
         },
         {
@@ -18918,8 +18920,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.72,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -19643,8 +19645,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.77,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -20492,8 +20494,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.59,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -21575,6 +21577,7 @@
                     ]
                 }
             ],
+            "institution_assertions": [],
             "countries_distinct_count": 3,
             "institutions_distinct_count": 8,
             "corresponding_author_ids": [],
@@ -21583,7 +21586,7 @@
             "apc_paid": null,
             "fwci": null,
             "has_fulltext": false,
-            "cited_by_count": 39,
+            "cited_by_count": 41,
             "citation_normalized_percentile": {
                 "value": 0.997249,
                 "is_in_top_1_percent": true,
@@ -22617,8 +22620,458 @@
                     "cited_by_count": 9
                 }
             ],
-            "updated_date": "2024-09-07T02:58:04.449982",
+            "updated_date": "2024-09-19T04:22:10.635017",
             "created_date": "2022-05-12"
+        },
+        {
+            "id": "https://openalex.org/W4391560706",
+            "doi": "https://doi.org/10.59350/89wpz-hpz32",
+            "title": "Introducing the Leiden Ranking Open Edition",
+            "display_name": "Introducing the Leiden Ranking Open Edition",
+            "publication_year": 2024,
+            "publication_date": "2024-01-30",
+            "ids": {
+                "openalex": "https://openalex.org/W4391560706",
+                "doi": "https://doi.org/10.59350/89wpz-hpz32"
+            },
+            "language": "en",
+            "primary_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "pdf_url": null,
+                "source": null,
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "type": "preprint",
+            "type_crossref": "posted-content",
+            "indexed_in": [
+                "crossref"
+            ],
+            "open_access": {
+                "is_oa": true,
+                "oa_status": "bronze",
+                "oa_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "any_repository_has_fulltext": true
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A5027467000",
+                        "display_name": "Ludo Waltman",
+                        "orcid": "https://orcid.org/0000-0001-8249-1752"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Ludo Waltman",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5079208483",
+                        "display_name": "Nees Jan van Eck",
+                        "orcid": "https://orcid.org/0000-0001-8448-4521"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I121797337",
+                            "display_name": "Leiden University",
+                            "ror": "https://ror.org/027bh9e22",
+                            "country_code": "NL",
+                            "type": "education",
+                            "lineage": [
+                                "https://openalex.org/I121797337"
+                            ]
+                        }
+                    ],
+                    "countries": [
+                        "NL"
+                    ],
+                    "is_corresponding": false,
+                    "raw_author_name": "Nees Jan van Eck",
+                    "raw_affiliation_strings": [
+                        "Leiden University"
+                    ],
+                    "affiliations": [
+                        {
+                            "raw_affiliation_string": "Leiden University",
+                            "institution_ids": [
+                                "https://openalex.org/I121797337"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5060713442",
+                        "display_name": "Martijn S. Visser",
+                        "orcid": "https://orcid.org/0000-0001-5987-2389"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Martijn Visser",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5093869293",
+                        "display_name": "Mark Neijssel",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Mark Neijssel",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5013301732",
+                        "display_name": "Lucy Montgomery",
+                        "orcid": "https://orcid.org/0000-0001-6551-8140"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Lucy Montgomery",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5048552040",
+                        "display_name": "Cameron Neylon",
+                        "orcid": "https://orcid.org/0000-0002-0068-716X"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Cameron Neylon",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5030014883",
+                        "display_name": "Bianca Kramer",
+                        "orcid": "https://orcid.org/0000-0002-5965-6560"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Bianca Kramer",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A5093869294",
+                        "display_name": "Kyle Demes",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Kyle Demes",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A5023888391",
+                        "display_name": "Jason Priem",
+                        "orcid": "https://orcid.org/0000-0001-6187-6610"
+                    },
+                    "institutions": [],
+                    "countries": [],
+                    "is_corresponding": false,
+                    "raw_author_name": "Jason Priem",
+                    "raw_affiliation_strings": [],
+                    "affiliations": []
+                }
+            ],
+            "institution_assertions": [],
+            "countries_distinct_count": 1,
+            "institutions_distinct_count": 1,
+            "corresponding_author_ids": [],
+            "corresponding_institution_ids": [],
+            "apc_list": null,
+            "apc_paid": null,
+            "fwci": null,
+            "has_fulltext": false,
+            "cited_by_count": 1,
+            "citation_normalized_percentile": null,
+            "cited_by_percentile_year": {
+                "min": 87,
+                "max": 95
+            },
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "primary_topic": null,
+            "topics": [],
+            "keywords": [
+                {
+                    "id": "https://openalex.org/keywords/cataloging-standards",
+                    "display_name": "Cataloging Standards",
+                    "score": 0.413763
+                }
+            ],
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C189430467",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7293293",
+                    "display_name": "Ranking (information retrieval)",
+                    "level": 2,
+                    "score": 0.90424067
+                },
+                {
+                    "id": "https://openalex.org/C161191863",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
+                    "display_name": "Library science",
+                    "level": 1,
+                    "score": 0.44880724
+                },
+                {
+                    "id": "https://openalex.org/C23123220",
+                    "wikidata": "https://www.wikidata.org/wiki/Q816826",
+                    "display_name": "Information retrieval",
+                    "level": 1,
+                    "score": 0.34598154
+                },
+                {
+                    "id": "https://openalex.org/C2522767166",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+                    "display_name": "Data science",
+                    "level": 1,
+                    "score": 0.33538425
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": 0.3261792
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": 0.326082
+                }
+            ],
+            "mesh": [],
+            "locations_count": 1,
+            "locations": [
+                {
+                    "is_oa": true,
+                    "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                    "pdf_url": null,
+                    "source": null,
+                    "license": "cc-by",
+                    "license_id": "https://openalex.org/licenses/cc-by",
+                    "version": "submittedVersion",
+                    "is_accepted": false,
+                    "is_published": false
+                }
+            ],
+            "best_oa_location": {
+                "is_oa": true,
+                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
+                "pdf_url": null,
+                "source": null,
+                "license": "cc-by",
+                "license_id": "https://openalex.org/licenses/cc-by",
+                "version": "submittedVersion",
+                "is_accepted": false,
+                "is_published": false
+            },
+            "sustainable_development_goals": [
+                {
+                    "score": 0.7,
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
+                }
+            ],
+            "grants": [],
+            "datasets": [],
+            "versions": [],
+            "referenced_works_count": 0,
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W2748952813",
+                "https://openalex.org/W2739821120",
+                "https://openalex.org/W2163901716",
+                "https://openalex.org/W2153069032",
+                "https://openalex.org/W2152204162",
+                "https://openalex.org/W2150136235",
+                "https://openalex.org/W2140661912",
+                "https://openalex.org/W2118564381",
+                "https://openalex.org/W2056806613",
+                "https://openalex.org/W2026095310"
+            ],
+            "abstract_inverted_index": {
+                "When": [
+                    0
+                ],
+                "the": [
+                    1,
+                    7,
+                    25,
+                    28,
+                    31,
+                    36
+                ],
+                "Shanghai": [
+                    2
+                ],
+                "Ranking,": [
+                    3
+                ],
+                "also": [
+                    4
+                ],
+                "known": [
+                    5
+                ],
+                "as": [
+                    6
+                ],
+                "Academic": [
+                    8
+                ],
+                "Ranking": [
+                    9
+                ],
+                "of": [
+                    10,
+                    22
+                ],
+                "World": [
+                    11
+                ],
+                "Universities": [
+                    12
+                ],
+                "(ARWU),": [
+                    13
+                ],
+                "was": [
+                    14
+                ],
+                "launched": [
+                    15
+                ],
+                "in": [
+                    16,
+                    34,
+                    43
+                ],
+                "2003,": [
+                    17
+                ],
+                "Ton": [
+                    18
+                ],
+                "van": [
+                    19
+                ],
+                "Raan,": [
+                    20
+                ],
+                "director": [
+                    21
+                ],
+                "CWTS": [
+                    23
+                ],
+                "at": [
+                    24
+                ],
+                "time,": [
+                    26
+                ],
+                "sounded": [
+                    27
+                ],
+                "alarm": [
+                    29
+                ],
+                "about": [
+                    30
+                ],
+                "problematic": [
+                    32
+                ],
+                "way": [
+                    33
+                ],
+                "which": [
+                    35
+                ],
+                "ranking": [
+                    37
+                ],
+                "uses": [
+                    38
+                ],
+                "bibliometric": [
+                    39
+                ],
+                "data,": [
+                    40
+                ],
+                "for": [
+                    41
+                ],
+                "instance": [
+                    42
+                ],
+                "attributing": [
+                    44
+                ],
+                "publications": [
+                    45
+                ],
+                "to": [
+                    46
+                ],
+                "universities.": [
+                    47
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4391560706",
+            "counts_by_year": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2024-09-19T13:13:11.618196",
+            "created_date": "2024-02-07"
         },
         {
             "id": "https://openalex.org/W2109312864",
@@ -23124,8 +23577,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.86,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -23857,8 +24310,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.86,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -24220,455 +24673,6 @@
             ],
             "updated_date": "2024-09-11T23:28:44.206232",
             "created_date": "2019-06-27"
-        },
-        {
-            "id": "https://openalex.org/W4391560706",
-            "doi": "https://doi.org/10.59350/89wpz-hpz32",
-            "title": "Introducing the Leiden Ranking Open Edition",
-            "display_name": "Introducing the Leiden Ranking Open Edition",
-            "publication_year": 2024,
-            "publication_date": "2024-01-30",
-            "ids": {
-                "openalex": "https://openalex.org/W4391560706",
-                "doi": "https://doi.org/10.59350/89wpz-hpz32"
-            },
-            "language": "en",
-            "primary_location": {
-                "is_oa": true,
-                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "pdf_url": null,
-                "source": null,
-                "license": "cc-by",
-                "license_id": "https://openalex.org/licenses/cc-by",
-                "version": "submittedVersion",
-                "is_accepted": false,
-                "is_published": false
-            },
-            "type": "preprint",
-            "type_crossref": "posted-content",
-            "indexed_in": [
-                "crossref"
-            ],
-            "open_access": {
-                "is_oa": true,
-                "oa_status": "bronze",
-                "oa_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "any_repository_has_fulltext": true
-            },
-            "authorships": [
-                {
-                    "author_position": "first",
-                    "author": {
-                        "id": "https://openalex.org/A5027467000",
-                        "display_name": "Ludo Waltman",
-                        "orcid": "https://orcid.org/0000-0001-8249-1752"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Ludo Waltman",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5079208483",
-                        "display_name": "Nees Jan van Eck",
-                        "orcid": "https://orcid.org/0000-0001-8448-4521"
-                    },
-                    "institutions": [
-                        {
-                            "id": "https://openalex.org/I121797337",
-                            "display_name": "Leiden University",
-                            "ror": "https://ror.org/027bh9e22",
-                            "country_code": "NL",
-                            "type": "education",
-                            "lineage": [
-                                "https://openalex.org/I121797337"
-                            ]
-                        }
-                    ],
-                    "countries": [
-                        "NL"
-                    ],
-                    "is_corresponding": false,
-                    "raw_author_name": "Nees Jan van Eck",
-                    "raw_affiliation_strings": [
-                        "Leiden University"
-                    ],
-                    "affiliations": [
-                        {
-                            "raw_affiliation_string": "Leiden University",
-                            "institution_ids": [
-                                "https://openalex.org/I121797337"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5060713442",
-                        "display_name": "Martijn S. Visser",
-                        "orcid": "https://orcid.org/0000-0001-5987-2389"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Martijn Visser",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5093869293",
-                        "display_name": "Mark Neijssel",
-                        "orcid": null
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Mark Neijssel",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5013301732",
-                        "display_name": "Lucy Montgomery",
-                        "orcid": "https://orcid.org/0000-0001-6551-8140"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Lucy Montgomery",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5048552040",
-                        "display_name": "Cameron Neylon",
-                        "orcid": "https://orcid.org/0000-0002-0068-716X"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Cameron Neylon",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5030014883",
-                        "display_name": "Bianca Kramer",
-                        "orcid": "https://orcid.org/0000-0002-5965-6560"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Bianca Kramer",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "middle",
-                    "author": {
-                        "id": "https://openalex.org/A5093869294",
-                        "display_name": "Kyle Demes",
-                        "orcid": null
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Kyle Demes",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                },
-                {
-                    "author_position": "last",
-                    "author": {
-                        "id": "https://openalex.org/A5023888391",
-                        "display_name": "Jason Priem",
-                        "orcid": "https://orcid.org/0000-0001-6187-6610"
-                    },
-                    "institutions": [],
-                    "countries": [],
-                    "is_corresponding": false,
-                    "raw_author_name": "Jason Priem",
-                    "raw_affiliation_strings": [],
-                    "affiliations": []
-                }
-            ],
-            "countries_distinct_count": 1,
-            "institutions_distinct_count": 1,
-            "corresponding_author_ids": [],
-            "corresponding_institution_ids": [],
-            "apc_list": null,
-            "apc_paid": null,
-            "fwci": null,
-            "has_fulltext": false,
-            "cited_by_count": 1,
-            "citation_normalized_percentile": null,
-            "cited_by_percentile_year": {
-                "min": 86,
-                "max": 94
-            },
-            "biblio": {
-                "volume": null,
-                "issue": null,
-                "first_page": null,
-                "last_page": null
-            },
-            "is_retracted": false,
-            "is_paratext": false,
-            "primary_topic": null,
-            "topics": [],
-            "keywords": [
-                {
-                    "id": "https://openalex.org/keywords/cataloging-standards",
-                    "display_name": "Cataloging Standards",
-                    "score": 0.413763
-                }
-            ],
-            "concepts": [
-                {
-                    "id": "https://openalex.org/C189430467",
-                    "wikidata": "https://www.wikidata.org/wiki/Q7293293",
-                    "display_name": "Ranking (information retrieval)",
-                    "level": 2,
-                    "score": 0.90424067
-                },
-                {
-                    "id": "https://openalex.org/C161191863",
-                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
-                    "display_name": "Library science",
-                    "level": 1,
-                    "score": 0.44880724
-                },
-                {
-                    "id": "https://openalex.org/C23123220",
-                    "wikidata": "https://www.wikidata.org/wiki/Q816826",
-                    "display_name": "Information retrieval",
-                    "level": 1,
-                    "score": 0.34598154
-                },
-                {
-                    "id": "https://openalex.org/C2522767166",
-                    "wikidata": "https://www.wikidata.org/wiki/Q2374463",
-                    "display_name": "Data science",
-                    "level": 1,
-                    "score": 0.33538425
-                },
-                {
-                    "id": "https://openalex.org/C41008148",
-                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
-                    "display_name": "Computer science",
-                    "level": 0,
-                    "score": 0.3261792
-                },
-                {
-                    "id": "https://openalex.org/C17744445",
-                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
-                    "display_name": "Political science",
-                    "level": 0,
-                    "score": 0.326082
-                }
-            ],
-            "mesh": [],
-            "locations_count": 1,
-            "locations": [
-                {
-                    "is_oa": true,
-                    "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                    "pdf_url": null,
-                    "source": null,
-                    "license": "cc-by",
-                    "license_id": "https://openalex.org/licenses/cc-by",
-                    "version": "submittedVersion",
-                    "is_accepted": false,
-                    "is_published": false
-                }
-            ],
-            "best_oa_location": {
-                "is_oa": true,
-                "landing_page_url": "https://doi.org/10.59350/89wpz-hpz32",
-                "pdf_url": null,
-                "source": null,
-                "license": "cc-by",
-                "license_id": "https://openalex.org/licenses/cc-by",
-                "version": "submittedVersion",
-                "is_accepted": false,
-                "is_published": false
-            },
-            "sustainable_development_goals": [
-                {
-                    "score": 0.7,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
-                }
-            ],
-            "grants": [],
-            "datasets": [],
-            "versions": [],
-            "referenced_works_count": 0,
-            "referenced_works": [],
-            "related_works": [
-                "https://openalex.org/W2748952813",
-                "https://openalex.org/W2739821120",
-                "https://openalex.org/W2163901716",
-                "https://openalex.org/W2153069032",
-                "https://openalex.org/W2152204162",
-                "https://openalex.org/W2150136235",
-                "https://openalex.org/W2140661912",
-                "https://openalex.org/W2118564381",
-                "https://openalex.org/W2056806613",
-                "https://openalex.org/W2026095310"
-            ],
-            "abstract_inverted_index": {
-                "When": [
-                    0
-                ],
-                "the": [
-                    1,
-                    7,
-                    25,
-                    28,
-                    31,
-                    36
-                ],
-                "Shanghai": [
-                    2
-                ],
-                "Ranking,": [
-                    3
-                ],
-                "also": [
-                    4
-                ],
-                "known": [
-                    5
-                ],
-                "as": [
-                    6
-                ],
-                "Academic": [
-                    8
-                ],
-                "Ranking": [
-                    9
-                ],
-                "of": [
-                    10,
-                    22
-                ],
-                "World": [
-                    11
-                ],
-                "Universities": [
-                    12
-                ],
-                "(ARWU),": [
-                    13
-                ],
-                "was": [
-                    14
-                ],
-                "launched": [
-                    15
-                ],
-                "in": [
-                    16,
-                    34,
-                    43
-                ],
-                "2003,": [
-                    17
-                ],
-                "Ton": [
-                    18
-                ],
-                "van": [
-                    19
-                ],
-                "Raan,": [
-                    20
-                ],
-                "director": [
-                    21
-                ],
-                "CWTS": [
-                    23
-                ],
-                "at": [
-                    24
-                ],
-                "time,": [
-                    26
-                ],
-                "sounded": [
-                    27
-                ],
-                "alarm": [
-                    29
-                ],
-                "about": [
-                    30
-                ],
-                "problematic": [
-                    32
-                ],
-                "way": [
-                    33
-                ],
-                "which": [
-                    35
-                ],
-                "ranking": [
-                    37
-                ],
-                "uses": [
-                    38
-                ],
-                "bibliometric": [
-                    39
-                ],
-                "data,": [
-                    40
-                ],
-                "for": [
-                    41
-                ],
-                "instance": [
-                    42
-                ],
-                "attributing": [
-                    44
-                ],
-                "publications": [
-                    45
-                ],
-                "to": [
-                    46
-                ],
-                "universities.": [
-                    47
-                ]
-            },
-            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4391560706",
-            "counts_by_year": [
-                {
-                    "year": 2024,
-                    "cited_by_count": 1
-                }
-            ],
-            "updated_date": "2024-09-07T19:39:23.486521",
-            "created_date": "2024-02-07"
         },
         {
             "id": "https://openalex.org/W3208256308",
@@ -25268,8 +25272,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.48,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [
@@ -26253,8 +26257,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.5,
-                    "id": "https://metadata.un.org/sdg/4",
-                    "display_name": "Quality education"
+                    "display_name": "Quality education",
+                    "id": "https://metadata.un.org/sdg/4"
                 }
             ],
             "grants": [],
@@ -26878,8 +26882,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.81,
-                    "id": "https://metadata.un.org/sdg/10",
-                    "display_name": "Reduced inequalities"
+                    "display_name": "Reduced inequalities",
+                    "id": "https://metadata.un.org/sdg/10"
                 }
             ],
             "grants": [],
@@ -27523,8 +27527,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.62,
-                    "id": "https://metadata.un.org/sdg/9",
-                    "display_name": "Industry, innovation and infrastructure"
+                    "display_name": "Industry, innovation and infrastructure",
+                    "id": "https://metadata.un.org/sdg/9"
                 }
             ],
             "grants": [],
@@ -30405,8 +30409,8 @@
             "sustainable_development_goals": [
                 {
                     "score": 0.44,
-                    "id": "https://metadata.un.org/sdg/11",
-                    "display_name": "Sustainable cities and communities"
+                    "display_name": "Sustainable cities and communities",
+                    "id": "https://metadata.un.org/sdg/11"
                 }
             ],
             "grants": [],
