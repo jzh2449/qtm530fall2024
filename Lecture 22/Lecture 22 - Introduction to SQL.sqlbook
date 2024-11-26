@@ -33,7 +33,7 @@ panel on the left:
 
 Delete existing table
 -- SQLBook: Code
--- Active: 1710903290079@@127.0.0.1@5432@postgres
+-- Active: 1732042467605@@127.0.0.1@5432@postgres
 -- If the table already exists we can drop it:
 -- If it doesn't exist nothing happens
 -- System commands are in upper case and user defined
@@ -271,6 +271,7 @@ HAVING MAX(victories) < 71
 
 Start by adding another table
 -- SQLBook: Code
+-- Active: 1732201747558@@127.0.0.1@5432@postgres
 DROP TABLE IF EXISTS countries;
 
 CREATE TABLE countries(
@@ -293,7 +294,7 @@ Left-join data
 - ``` LEFT JOIN``` is followed by the secondary dataset
 
 -- SQLBook: Code
--- Active: 1710903290079@@127.0.0.1@5432@postgres
+-- Active: 1732201747558@@127.0.0.1@5432@postgres
 
 SELECT * 
 FROM drivers
